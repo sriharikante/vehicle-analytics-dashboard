@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+data/
+
+# Logs
+*.log
+logs/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Chrome driver
+chromedriver
+chromedriver.exe
+
+# Temporary files
+temp/
+tmp/
+
+# Environment variables
+.env
+.env.local
+
+# Build files
+build/
+dist/
+*.egg-info/
