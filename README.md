@@ -132,35 +132,6 @@ Columns:
 - yoy_growth, qoq_growth: Calculated growth metrics
 ```
 
-## 🎬 Demo Video Script
-
-### 5-Minute Video Walkthrough
-
-**[0:00-0:30] Introduction**
-"Welcome to the Vahan Dashboard Analytics platform, built for comprehensive vehicle registration data analysis. This investor-focused dashboard provides real-time insights into India's automotive market."
-
-**[0:30-1:30] Data Overview**
-"Our platform processes over 90,000 data points covering vehicle registrations across 17+ states, tracking 17+ manufacturers across three main categories: Two-wheelers, Three-wheelers, and Four-wheelers."
-
-**[1:30-2:30] Interactive Features**
-"The dashboard offers powerful filtering capabilities. Users can select date ranges, filter by vehicle categories, choose specific states, and focus on particular manufacturers. Watch as the entire dashboard updates in real-time."
-
-**[2:30-3:30] Key Insights**
-"The platform provides critical business intelligence including YoY growth rates, market share analysis, and regional performance metrics. These insights help investors identify growth opportunities and market trends."
-
-**[3:30-4:30] Technical Features**
-"Built with modern Python stack including Streamlit for the interface, Plotly for visualizations, and pandas for data processing. The platform supports data export and includes caching for optimal performance."
-
-**[4:30-5:00] Deployment & Conclusion**
-"Deployed on Streamlit Cloud for global accessibility, this platform represents a complete solution for automotive market analysis. Thank you for exploring our Vahan Dashboard Analytics platform."
-
-## 📈 Sample Insights Generated
-
-### Market Trends
-- **Two-Wheeler Dominance**: 2W segment accounts for ~70% of total registrations
-- **Electric Vehicle Growth**: EV adoption showing 25-30% annual growth
-- **Regional Leaders**: Maharashtra, Tamil Nadu, and Gujarat lead in registrations
-- **Seasonal Patterns**: Peak registrations during festival seasons (Oct-Nov, Mar-Apr)
 
 ### Manufacturer Performance
 - **Market Leaders**: Maruti Suzuki (4W), Hero MotoCorp (2W) maintain dominance
@@ -221,5 +192,4 @@ Columns:
 ---
 
 **Built with ❤️ for Financially Free - Backend Developer Internship Assignment**
-
 *This project demonstrates full-stack development capabilities, data analysis expertise, and business intelligence skills required for modern fintech applications.*
