@@ -180,11 +180,10 @@ Columns:
 - User authentication system
 
 ## 📞 Contact & Support
-
 **Developer**: [srihari k]
 **Email**: [kantesrihari1@gmail.com]
-**LinkedIn**: [Your LinkedIn Profile]
-**GitHub**: [Your GitHub Profile]
+**LinkedIn**: [https://www.linkedin.com/in/kantesrihari]
+**GitHub**: [https://github.com/sriharikante]
 
 **Project Repository**: [https://github.com/sriharikante/vehicle-analytics-dashboard]
 **Live Dashboard**: [https://vehicle-analytics-dashboard-5j3tzxkser7baphyebygjy.streamlit.app/]
