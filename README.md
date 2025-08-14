@@ -181,13 +181,15 @@ Columns:
 
 ## 📞 Contact & Support
 
-**Developer**: [Your Name]
-**Email**: [your.email@example.com]
+**Developer**: [srihari k]
+**Email**: [kantesrihari1@gmail.com]
 **LinkedIn**: [Your LinkedIn Profile]
 **GitHub**: [Your GitHub Profile]
 
-**Project Repository**: [GitHub Repository URL]
-**Live Dashboard**: [Streamlit Cloud URL]
+**Project Repository**: [https://github.com/sriharikante/vehicle-analytics-dashboard]
+**Live Dashboard**: [https://vehicle-analytics-dashboard-5j3tzxkser7baphyebygjy.streamlit.app/]
+**## 🎥 Video Walkthrough
+Watch the complete project demonstration here: [Video Link](https://drive.google.com/file/d/1znqeXCG81XxaWmydHq3ICvewWbvZZ4Ch/view?usp=sharing)
 
 ---
 
