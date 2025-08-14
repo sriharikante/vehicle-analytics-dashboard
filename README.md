@@ -188,7 +188,7 @@ Columns:
 
 **Project Repository**: [https://github.com/sriharikante/vehicle-analytics-dashboard]
 **Live Dashboard**: [https://vehicle-analytics-dashboard-5j3tzxkser7baphyebygjy.streamlit.app/]
-**## 🎥 Video Walkthrough
+## 🎥 Video Walkthrough
 Watch the complete project demonstration here: [Video Link](https://drive.google.com/file/d/1znqeXCG81XxaWmydHq3ICvewWbvZZ4Ch/view?usp=sharing)
 
 ---
